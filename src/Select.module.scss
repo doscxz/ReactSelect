@@ -1,0 +1,11 @@
+.main {
+  margin: 10px auto;
+  width: 80%;
+
+  >h1 {
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+}
